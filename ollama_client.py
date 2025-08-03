@@ -9,7 +9,8 @@ def query_ollama(prompt, selected_model):
     payload = {
         "model": selected_model,
         "prompt": prompt,
-        "stream": False
+        "system": "You are a Python data analysis assistant. Given a user query, respond ONLY with the pandas code needed to perform the analysis, and nothing else. Do not include explanations or extra text.",
+        "stream": False,
     }
     
     try:

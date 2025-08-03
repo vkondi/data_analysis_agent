@@ -1,0 +1,91 @@
+Employee ID,Name,Job Title,Department,Location,Hire Date,Salary,Manager ID,
+1,Jane Doe,Software Engineer,Engineering,NYC,01-01-2020,100,0,3
+2,Bob Smith,Data Analyst,Business Intelligence,NY,15-06-2019,80,0,4
+3,Mary Johnson,Sales Representative,Sales,London,01-03-2018,60,0,5
+4,Jennifer Lee,Marketing Manager,Marketing,Tokyo,01-02-2020,90,0,6
+5,Ryan Hall,IT Support Specialist,IT,NYC,15-11-2019,50,0,7
+6,Sarah Taylor,HR Generalist,Human Resources,London,01-09-2018,40,0,2
+7,Mike Davis,Account Manager,Business Development,Chicago,01-04-2020,70,0,1
+8,Alexandra Brown,Finance Analyst,Finance,NYC,15-07-2019,60,0,3
+9,Emily Chen,Product Manager,Product Development,Tokyo,01-03-2020,80,0,5
+10,Brian Kim,IT Project Manager,IT,London,15-10-2019,70,0,7
+11,Sophia Patel,Marketing Coordinator,Marketing,NYC,01-05-2018,40,0,6
+12,Jessica Rodriguez,Operations Manager,Operations,Chicago,01-06-2020,50,0,2
+13,Oliver Lee,Software Developer,Engineering,Tokyo,15-08-2019,60,0,3
+14,Amanda Martin,HR Recruiter,Human Resources,London,01-11-2018,40,0,5
+15,Eric Thompson,Accounting Manager,Finance,NYC,01-05-2020,50,0,4
+16,Lauren Hall,Sales Representative,Sales,Tokyo,15-12-2019,60,0,1
+17,Jason Kim,IT Support Specialist,IT,London,01-07-2018,40,0,7
+18,Kathryn Brown,Marketing Manager,Marketing,NYC,01-04-2020,70,0,6
+19,Alexis Garcia,Operations Coordinator,Operations,Chicago,15-09-2019,30,0,2
+20,Matthew Smith,Software Engineer,Engineering,Tokyo,15-02-2020,60,0,3
+21,Lisa Nguyen,Data Scientist,Business Intelligence,NYC,15-01-2020,80,0,4
+22,Rachel Lee,Product Manager,Product Development,Tokyo,01-05-2019,70,0,5
+23,Jamie Patel,IT Project Manager,IT,London,15-09-2018,60,0,7
+24,Samantha Brown,Marketing Coordinator,Marketing,NYC,01-06-2018,40,0,6
+25,Daniel Kim,Account Manager,Business Development,Chicago,01-03-2020,50,0,1
+26,Melissa Martin,HR Recruiter,Human Resources,London,15-10-2019,40,0,5
+27,Nicholas Thompson,Finance Analyst,Finance,NYC,15-04-2020,60,0,3
+28,Eleanor Rodriguez,Operations Manager,Operations,Chicago,01-05-2020,50,0,2
+29,Miranda Hall,Sales Representative,Sales,Tokyo,15-11-2019,60,0,1
+30,Aaron Brown,IT Support Specialist,IT,London,01-08-2018,40,0,7
+31,Hannah Lee,Software Engineer,Engineering,Tokyo,15-03-2020,60,0,3
+32,Sophia Patel,Marketing Manager,Marketing,NYC,01-05-2020,70,0,6
+33,Emily Chen,Product Manager,Product Development,Tokyo,15-06-2019,80,0,5
+34,Michael Davis,Account Manager,Business Development,Chicago,15-04-2020,50,0,1
+35,Jessica Taylor,HR Generalist,Human Resources,London,01-10-2018,40,0,2
+36,Alexandra Brown,Finance Analyst,Finance,NYC,15-03-2020,60,0,3
+37,Brian Kim,IT Project Manager,IT,London,15-09-2019,70,0,7
+38,Mary Johnson,Marketing Coordinator,Marketing,NYC,15-05-2018,40,0,6
+39,Eric Thompson,Accounting Manager,Finance,NYC,01-06-2020,50,0,4
+40,Lauren Hall,Sales Representative,Sales,Tokyo,15-02-2020,60,0,1
+41,Jason Kim,IT Support Specialist,IT,London,15-07-2018,40,0,7
+42,Kathryn Brown,Marketing Manager,Marketing,NYC,15-04-2020,70,0,6
+43,Alexis Garcia,Operations Coordinator,Operations,Chicago,01-10-2019,30,0,2
+44,Matthew Smith,Software Engineer,Engineering,Tokyo,20-02-2020,60,0,3
+45,Lisa Nguyen,Data Scientist,Business Intelligence,NYC,20-01-2020,80,0,4
+46,Rachel Lee,Product Manager,Product Development,Tokyo,15-05-2019,70,0,5
+47,Jamie Patel,IT Project Manager,IT,London,20-09-2018,60,0,7
+48,Samantha Brown,Marketing Coordinator,Marketing,NYC,15-06-2018,40,0,6
+49,Daniel Kim,Account Manager,Business Development,Chicago,15-03-2020,50,0,1
+50,Melissa Martin,HR Recruiter,Human Resources,London,20-10-2019,40,0,5
+51,Caroline Brown,Software Engineer,Engineering,Tokyo,20-03-2020,60,0,3
+52,Benjamin Kim,IT Support Specialist,IT,London,15-08-2018,40,0,7
+53,Sarah Patel,Marketing Manager,Marketing,NYC,15-05-2020,70,0,6
+54,Mike Lee,Account Manager,Business Development,Chicago,20-04-2020,50,0,1
+55,Jessica Rodriguez,Operations Manager,Operations,Chicago,15-06-2020,50,0,2
+56,Alexandra Brown,Finance Analyst,Finance,NYC,20-03-2020,60,0,3
+57,Brian Kim,IT Project Manager,IT,London,20-09-2019,70,0,7
+58,Mary Johnson,Marketing Coordinator,Marketing,NYC,20-05-2018,40,0,6
+59,Eric Thompson,Accounting Manager,Finance,NYC,15-06-2020,50,0,4
+60,Lauren Hall,Sales Representative,Sales,Tokyo,20-02-2020,60,0,1
+61,Jason Kim,IT Support Specialist,IT,London,20-07-2018,40,0,7
+62,Kathryn Brown,Marketing Manager,Marketing,NYC,20-04-2020,70,0,6
+63,Alexis Garcia,Operations Coordinator,Operations,Chicago,15-10-2019,30,0,2
+64,Matt Smith,Software Engineer,Engineering,Tokyo,25-02-2020,60,0,3
+65,Lisa Nguyen,Data Scientist,Business Intelligence,NYC,25-01-2020,80,0,4
+66,Rachel Lee,Product Manager,Product Development,Tokyo,20-05-2019,70,0,5
+67,Jamie Patel,IT Project Manager,IT,London,25-09-2018,60,0,7
+68,Samantha Brown,Marketing Coordinator,Marketing,NYC,20-06-2018,40,0,6
+69,Daniel Kim,Account Manager,Business Development,Chicago,20-03-2020,50,0,1
+70,Melissa Martin,HR Recruiter,Human Resources,London,25-10-2019,40,0,5
+71,Hannah Lee,Software Engineer,Engineering,Tokyo,01-04-2020,60,0,3
+72,Sophia Patel,Marketing Manager,Marketing,NYC,01-06-2020,70,0,6
+73,Eleanor Rodriguez,Operations Manager,Operations,Chicago,01-07-2020,50,0,2
+74,Aaron Brown,IT Support Specialist,IT,London,01-09-2018,40,0,7
+75,Nicholas Thompson,Finance Analyst,Finance,NYC,01-05-2020,60,0,3
+76,Jessica Taylor,HR Generalist,Human Resources,London,01-10-2019,40,0,2
+77,Emily Chen,Product Manager,Product Development,Tokyo,20-03-2020,80,0,5
+78,Brian Kim,IT Project Manager,IT,London,15-11-2019,70,0,7
+79,Mary Johnson,Marketing Coordinator,Marketing,NYC,01-06-2018,40,0,6
+80,Lauren Hall,Sales Representative,Sales,Tokyo,20-02-2020,60,0,1
+81,Jason Kim,IT Support Specialist,IT,London,15-08-2018,40,0,7
+82,Kathryn Brown,Marketing Manager,Marketing,NYC,20-04-2020,70,0,6
+83,Alexis Garcia,Operations Coordinator,Operations,Chicago,01-10-2019,30,0,2
+84,Matt Smith,Software Engineer,Engineering,Tokyo,15-03-2020,60,0,3
+85,Lisa Nguyen,Data Scientist,Business Intelligence,NYC,20-02-2020,80,0,4
+86,Rachel Lee,Product Manager,Product Development,Tokyo,01-06-2019,70,0,5
+87,Jamie Patel,IT Project Manager,IT,London,15-10-2018,60,0,7
+88,Samantha Brown,Marketing Coordinator,Marketing,NYC,01-08-2018,40,0,6
+89,Daniel Kim,Account Manager,Business Development,Chicago,15-04-2020,50,0,1
+90,Melissa Martin,HR Recruiter,Human Resources,London,20-11-2019,40,0,5

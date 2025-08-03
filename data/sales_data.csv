@@ -1,0 +1,134 @@
+Order ID,Customer Name,Order Date,Product,Quantity,Price per Unit,Total Order Value,Region
+1,John Smith,15-02-2023,Hiking Boot,2,125,250,North America
+2,Jane Doe,28-01-2023,Water Bottle,1,20,20,Europe
+3,Michael Brown,01-03-2023,Backpack,1,50,50,Asia
+4,Sarah Lee,10-02-2023,Tent,2,100,200,North America
+5,Bob Johnson,25-01-2023,Camping Stove,1,30,30,Americas
+6,Jessica Rodriguez,15-03-2023,Sleeping Bag,1,70,70,Latin America
+7,Tom Harris,20-02-2023,Hiking Pole,2,40,80,North America
+8,Emily Chen,18-01-2023,GPS Watch,1,150,150,Africa
+9,David Kim,28-03-2023,Camping Gear Kit,1,200,200,Asia
+10,Lisa Nguyen,25-02-2023,Folding Chair,2,20,40,North America
+11,Ryan Hall,12-01-2023,Biking Helmet,1,60,60,Americas
+12,Margaret Foster,10-03-2023,Camping Lantern,1,50,50,Europe
+13,Jennifer Martin,15-02-2023,Water Shoes,2,30,60,North America
+14,James Reed,05-01-2023,Backpacking Tarp,1,80,80,Africa
+15,Catherine Taylor,20-03-2023,Hiking Map,2,10,20,Asia
+16,Karen Walker,10-02-2023,Camping Cookware,1,70,70,North America
+17,Brian Lewis,22-01-2023,Sleeping Pad,1,100,100,Americas
+18,Susan Lee,15-03-2023,Tent Stakes,2,20,40,Europe
+19,Richard Brown,25-02-2023,Hiking Socks,2,15,30,North America
+20,Amanda Jackson,10-01-2023,GPS Device,1,120,120,Latin America
+21,Joyce White,10-03-2023,Camping Gear Bag,1,40,40,Europe
+22,Teresa Martin,20-02-2023,Folding Table,2,30,60,North America
+23,William Davis,05-01-2023,Biking Gloves,1,25,25,Africa
+24,Elizabeth Rodriguez,15-03-2023,Sleeping Bag Liner,1,50,50,Latin America
+25,Diana Johnson,10-02-2023,Camping Flashlight,2,40,80,North America
+26,Helen Chen,18-01-2023,GPS Unit,1,90,90,Africa
+27,Frank Kim,28-03-2023,Camping Gear Kit,1,200,200,Asia
+28,Mary Martin,25-02-2023,Folding Chair,2,20,40,North America
+29,Betty Brown,12-01-2023,Biking Helmet,1,60,60,Americas
+30,Jessica Hall,10-03-2023,Camping Lantern,1,50,50,Europe
+31,Lucy Lee,15-02-2023,Hiking Boot,2,125,250,North America
+32,Sarah Taylor,05-01-2023,Tent,1,100,100,Africa
+33,Joyce Lewis,20-03-2023,Hiking Map,2,10,20,Asia
+34,Victoria Martin,10-02-2023,Camping Cookware,1,70,70,North America
+35,Robert Reed,22-01-2023,Sleeping Pad,1,100,100,Americas
+36,Evelyn Walker,15-03-2023,Tent Stakes,2,20,40,Europe
+37,Dorothy Lee,25-02-2023,Hiking Socks,2,15,30,North America
+38,Margaret Chen,10-01-2023,GPS Device,1,120,120,Latin America
+39,Josephine White,10-03-2023,Camping Gear Bag,1,40,40,Europe
+40,George Davis,20-02-2023,Folding Table,2,30,60,North America
+41,Helen Rodriguez,05-01-2023,Biking Gloves,1,25,25,Africa
+42,Mary Johnson,15-03-2023,Sleeping Bag Liner,1,50,50,Latin America
+43,Florence Martin,10-02-2023,Camping Flashlight,2,40,80,North America
+44,Thelma Lee,18-01-2023,GPS Unit,1,90,90,Africa
+45,Beatrice Kim,28-03-2023,Camping Gear Kit,1,200,200,Asia
+46,Maude Martin,25-02-2023,Folding Chair,2,20,40,North America
+47,Dorothy Hall,12-01-2023,Biking Helmet,1,60,60,Americas
+48,Hannah Lee,10-03-2023,Camping Lantern,1,50,50,Europe
+49,Mabel Brown,15-02-2023,Hiking Boot,2,125,250,North America
+50,Lola Reed,05-01-2023,Tent,1,100,100,Africa
+51,Florence Lewis,20-03-2023,Hiking Map,2,10,20,Asia
+52,Margaret Walker,10-02-2023,Camping Cookware,1,70,70,North America
+53,Edith Martin,22-01-2023,Sleeping Pad,1,100,100,Americas
+54,Ada Lee,15-03-2023,Tent Stakes,2,20,40,Europe
+55,Ida Johnson,25-02-2023,Hiking Socks,2,15,30,North America
+56,Margaret Brown,10-01-2023,GPS Device,1,120,120,Latin America
+57,Eleanor White,10-03-2023,Camping Gear Bag,1,40,40,Europe
+58,Hattie Davis,20-02-2023,Folding Table,2,30,60,North America
+59,Mae Reed,05-01-2023,Biking Gloves,1,25,25,Africa
+60,Louise Martin,15-03-2023,Sleeping Bag Liner,1,50,50,Latin America
+61,Florence Johnson,10-02-2023,Camping Flashlight,2,40,80,North America
+62,Mary Kim,18-01-2023,GPS Unit,1,90,90,Africa
+63,Hannah Lee,28-03-2023,Camping Gear Kit,1,200,200,Asia
+64,Mabel Hall,25-02-2023,Folding Chair,2,20,40,North America
+65,Dorothy Brown,12-01-2023,Biking Helmet,1,60,60,Americas
+66,Lucy Martin,10-03-2023,Camping Lantern,1,50,50,Europe
+67,Mary Taylor,15-02-2023,Hiking Boot,2,125,250,North America
+68,Florence Lee,05-01-2023,Tent,1,100,100,Africa
+69,Helen Reed,20-03-2023,Hiking Map,2,10,20,Asia
+70,Margaret Walker,10-02-2023,Camping Cookware,1,70,70,North America
+71,Ida Martin,22-01-2023,Sleeping Pad,1,100,100,Americas
+72,Louise Brown,15-03-2023,Tent Stakes,2,20,40,Europe
+73,Mary Johnson,25-02-2023,Hiking Socks,2,15,30,North America
+74,Florence Rodriguez,10-01-2023,GPS Device,1,120,120,Latin America
+75,Eleanor Lee,10-03-2023,Camping Gear Bag,1,40,40,Europe
+76,Hattie Davis,20-02-2023,Folding Table,2,30,60,North America
+77,Mae Reed,05-01-2023,Biking Gloves,1,25,25,Africa
+78,Louise Martin,15-03-2023,Sleeping Bag Liner,1,50,50,Latin America
+79,Florence Johnson,10-02-2023,Camping Flashlight,2,40,80,North America
+80,Mary Kim,18-01-2023,GPS Unit,1,90,90,Africa
+81,Hannah Lee,28-03-2023,Camping Gear Kit,1,200,200,Asia
+82,Mabel Hall,25-02-2023,Folding Chair,2,20,40,North America
+83,Dorothy Brown,12-01-2023,Biking Helmet,1,60,60,Americas
+84,Lucy Martin,10-03-2023,Camping Lantern,1,50,50,Europe
+85,Mary Taylor,15-02-2023,Hiking Boot,2,125,250,North America
+86,Florence Lee,05-01-2023,Tent,1,100,100,Africa
+87,Helen Reed,20-03-2023,Hiking Map,2,10,20,Asia
+88,Margaret Walker,10-02-2023,Camping Cookware,1,70,70,North America
+89,Ida Martin,22-01-2023,Sleeping Pad,1,100,100,Americas
+90,Louise Brown,15-03-2023,Tent Stakes,2,20,40,Europe
+91,Mary Johnson,25-02-2023,Hiking Socks,2,15,30,North America
+92,Florence Rodriguez,10-01-2023,GPS Device,1,120,120,Latin America
+93,Eleanor Lee,10-03-2023,Camping Gear Bag,1,40,40,Europe
+94,Hattie Davis,20-02-2023,Folding Table,2,30,60,North America
+95,Mae Reed,05-01-2023,Biking Gloves,1,25,25,Africa
+96,Louise Martin,15-03-2023,Sleeping Bag Liner,1,50,50,Latin America
+97,Florence Johnson,10-02-2023,Camping Flashlight,2,40,80,North America
+98,Mary Kim,18-01-2023,GPS Unit,1,90,90,Africa
+99,Hannah Lee,28-03-2023,Camping Gear Kit,1,200,200,Asia
+100,Lucy Martin,25-02-2023,Folding Chair,2,20,40,North America
+101,Dorothy Brown,12-01-2023,Biking Helmet,1,60,60,Americas
+102,Mary Taylor,15-02-2023,Hiking Boot,2,125,250,North America
+103,Florence Lee,05-01-2023,Tent,1,100,100,Africa
+104,Helen Reed,20-03-2023,Hiking Map,2,10,20,Asia
+105,Margaret Walker,10-02-2023,Camping Cookware,1,70,70,North America
+106,Ida Martin,22-01-2023,Sleeping Pad,1,100,100,Americas
+107,Louise Brown,15-03-2023,Tent Stakes,2,20,40,Europe
+108,Mary Johnson,25-02-2023,Hiking Socks,2,15,30,North America
+109,Florence Rodriguez,10-01-2023,GPS Device,1,120,120,Latin America
+110,Eleanor Lee,10-03-2023,Camping Gear Bag,1,40,40,Europe
+111,Hattie Davis,20-02-2023,Folding Table,2,30,60,North America
+112,Mae Reed,05-01-2023,Biking Gloves,1,25,25,Africa
+113,Louise Martin,15-03-2023,Sleeping Bag Liner,1,50,50,Latin America
+114,Florence Johnson,10-02-2023,Camping Flashlight,2,40,80,North America
+115,Mary Kim,18-01-2023,GPS Unit,1,90,90,Africa
+116,Hannah Lee,28-03-2023,Camping Gear Kit,1,200,200,Asia
+117,Mabel Hall,25-02-2023,Folding Chair,2,20,40,North America
+118,Dorothy Brown,12-01-2023,Biking Helmet,1,60,60,Americas
+119,Lucy Martin,10-03-2023,Camping Lantern,1,50,50,Europe
+120,Mary Taylor,15-02-2023,Hiking Boot,2,125,250,North America
+121,Florence Lee,05-01-2023,Tent,1,100,100,Africa
+122,Helen Reed,20-03-2023,Hiking Map,2,10,20,Asia
+123,Margaret Walker,10-02-2023,Camping Cookware,1,70,70,North America
+124,Ida Martin,22-01-2023,Sleeping Pad,1,100,100,Americas
+125,Louise Brown,15-03-2023,Tent Stakes,2,20,40,Europe
+126,Mary Johnson,25-02-2023,Hiking Socks,2,15,30,North America
+127,Florence Rodriguez,10-01-2023,GPS Device,1,120,120,Latin America
+128,Eleanor Lee,10-03-2023,Camping Gear Bag,1,40,40,Europe
+129,Hattie Davis,20-02-2023,Folding Table,2,30,60,North America
+130,Mae Reed,05-01-2023,Biking Gloves,1,25,25,Africa
+131,Louise Martin,15-03-2023,Sleeping Bag Liner,1,50,50,Latin America
+132,Florence Johnson,10-02-2023,Camping Flashlight,2,40,80,North America
+133,Mary Kim,18-01-2023,GPS Unit,1,90,90,Africa

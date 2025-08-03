@@ -5,9 +5,9 @@ import json
 OLLAMA_API = "http://localhost:11434/api/generate"
 
 # Query Ollama to interpret the user's query
-def query_ollama(prompt):
+def query_ollama(prompt, selected_model):
     payload = {
-        "model": "llama3",
+        "model": selected_model,
         "prompt": prompt,
         "stream": False
     }

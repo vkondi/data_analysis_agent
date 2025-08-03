@@ -3,7 +3,7 @@ import pandas as pd
 from ollama_client import query_ollama
 
 # Analyze data based on interpreted query
-def analyze_data(df, query):
+def analyze_data(df, query, selected_model):
     prompt = f"""
     System: You are a data analysis assistant. The dataset has columns: {list(df.columns)}.
     The user asked: "{query}"
@@ -15,7 +15,7 @@ def analyze_data(df, query):
     2. Do not include any explanations or additional text, just the command.
     """
     
-    ollama_response = query_ollama(prompt)
+    ollama_response = query_ollama(prompt, selected_model)
     print(f"Ollama's response: {ollama_response}")
     
     # Sanitize Ollama's response
@@ -31,4 +31,4 @@ def analyze_data(df, query):
         result = eval(command, local_vars)
         return result, command
     except Exception as e:
-        return f"Error analyzing data: {str(e)}", None
+        return f"[analyze_data] >> Error analyzing data: {str(e)}", None
